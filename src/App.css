@@ -1,0 +1,30 @@
+.text-container {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 4px;
+  border-radius: 10px; 
+  color: white; 
+}
+
+.vending-machine {
+  background-image: url('https://images.unsplash.com/photo-1625650484478-113df4bfc370?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.chips-image {
+  height: 200px
+}
+
+.candy-image {
+  max-width: 300px;
+  height: auto;
+}
+
+.soda-image {
+  max-width: 300px;
+  height: auto;
+}
+
